@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ## 👨‍💻 Desarrollador en Java, HTML, CSS y SQL
+📱 Actualmente estoy cursando el primer año de desarrollo de aplicaciones multiplataforma en Sevilla, en el centro salesianos de San Pedro
 
 🚀 **Tecnologías que utilizo:**
 - ☕ **Java**: Desarrollo de aplicaciones con Eclipse.
@@ -11,4 +12,4 @@
 - 🧑‍💻 **Eclipse**: Entorno de desarrollo integrado para proyectos en Java.
 - 🖥️ **Visual Studio**: Editor para proyectos web con HTML y CSS.
 
-🌱 **En constante aprendizaje** de nuevas tecnologías y mejores prácticas.
+🌱 En constante aprendizaje de nuevas tecnologías y mejores prácticas.
