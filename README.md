@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ajcasadob/ajcasadob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Desarrollador en Java, HTML, CSS y SQL
 
-Here are some ideas to get you started:
+🚀 **Tecnologías que utilizo:**
+- ☕ **Java**: Desarrollo de aplicaciones con Eclipse.
+- 🌐 **HTML/CSS**: Creación de sitios web estáticos en Visual Studio.
+- 🗃️ **PostgreSQL**: Gestión de bases de datos y consultas SQL (aprendiendo SQL).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Herramientas:**
+- 🧑‍💻 **Eclipse**: Entorno de desarrollo integrado para proyectos en Java.
+- 🖥️ **Visual Studio**: Editor para proyectos web con HTML y CSS.
+
+🌱 **En constante aprendizaje** de nuevas tecnologías y mejores prácticas.
