@@ -1,7 +1,7 @@
 ## Hi, I AM ANTONIO JESÚS CASADO BAYÓN 👋
 
 
-👨‍💻 **Desarrollador en Java, HTML, CSS y SQL**  
+👨‍💻 **Desarrollador Full Stack**  
 📱 Actualmente estoy cursando el primer año de desarrollo de aplicaciones multiplataforma en Sevilla, en el centro Salesianos de San Pedro
 
 ## 🚀 Tecnologías que utilizo:
