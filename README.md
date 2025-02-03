@@ -29,10 +29,14 @@
 
 </div>
 
- 
-
 🌱 **En constante aprendizaje de nuevas tecnologías y mejores prácticas.**
-
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcasadob&layout=donut&theme=vue-dark" height="220" alt="streak graph"  />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajcasadob&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ajcasadob&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+</p>
