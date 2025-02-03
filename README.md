@@ -18,3 +18,6 @@
 
 🌱 **En constante aprendizaje de nuevas tecnologías y mejores prácticas.**
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcasadob&layout=donut&theme=vue-dark" height="220" alt="streak graph"  />
+</div>
