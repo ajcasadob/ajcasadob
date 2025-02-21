@@ -9,10 +9,16 @@
 - ☕ **Java**: Desarrollo de aplicaciones con Eclipse.
 - 🌐 **HTML/CSS**: Creación de sitios web estáticos en Visual Studio.
 - 🗃️ **PostgreSQL**: Gestión de bases de datos y consultas SQL (aprendiendo SQL).
+- 🖥️ **Microsoft SQL Server**: Base de datos relacional para almacenar y gestionar datos de manera eficiente.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="microsoft sql server logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   
  
  
@@ -22,9 +28,12 @@
 
 - 🧑‍💻 **Eclipse**: Entorno de desarrollo integrado para proyectos en Java.
 - 🖥️ **Visual Studio**: Editor para proyectos web con HTML y CSS.
+- 🧑‍💻**Intellij**: Entorno de desarrollo integrado.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
 
 </div>
