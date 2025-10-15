@@ -2,7 +2,7 @@
 
 
 👨‍💻 **Desarrollador Full Stack**  
-📱 Actualmente estoy cursando el primer año de desarrollo de aplicaciones multiplataforma en Sevilla, en el centro Salesianos de San Pedro
+📱 Actualmente estoy cursando el segundo año de desarrollo de aplicaciones multiplataforma en Sevilla, en el centro Salesianos de San Pedro
 
 ## 🚀 Tecnologías que utilizo:
 
